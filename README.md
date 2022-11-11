@@ -1,2 +1,3 @@
-# VikiMedia-Official
-Watch Latest Movies and Tv shows for free.
+# VikiMedia
+
+![image1](assets/poster 4.png)

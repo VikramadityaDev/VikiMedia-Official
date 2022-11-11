@@ -1,3 +1,3 @@
 # VikiMedia
 
-![image1](assets/poster 4.png)
+![image1](https://github.com/VikramadityaDev/VikiMedia-Official/blob/main/assets/poster%204.png)

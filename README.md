@@ -6,11 +6,10 @@ VikiMedia is an android streaming app for movies, for movies, tv-shows and anime
 
 ### Feature
 - Ad free, No Ads whatsoever
-- No tracking/analytics
 - Instant search get results fast
 - Stream any movies , tvshows , animes
 - Fetches data from TMBD
-- Streams movies from 2embed.org
+- Streams movies
 
 # Technologies
 - Flutter
